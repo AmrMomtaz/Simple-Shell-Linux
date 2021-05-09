@@ -1,5 +1,3 @@
-#Simple Shell
-
 Simple Shell program in C for Linux.
 
 Link to the problem statement :
